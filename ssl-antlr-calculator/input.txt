@@ -1,1 +1,5 @@
-
+variable palabra = 'sintaxis';
+palabra = mayusculas(palabra);
+imprimir(palabra);
+palabra = longitud(palabra);
+imprimir(palabra);
