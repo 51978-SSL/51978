@@ -54,6 +54,12 @@ Para ejecutar el programa debe tener instalado lo siguiente:
 
 9. Repita los mismos pasos con el último ejemplo en InputIncorrecto2.txt , vemos que nos indica un error en una línea y la causa del problema.
 
+   mensaje = "Hola" + "25" ;
+
+   Acá vemos un error similar al anterior, ya que cadena solo deriva en TEXTO y NOMBRE, no en NUMERO.
+
+
+
 ### ❗ Notas
 Asegúrate de usar comillas simples para los textos.
 
