@@ -12,26 +12,10 @@ Para ejecutar el programa debe tener instalado lo siguiente:
 
 -Por último la extensión ANTLR4 en VS CODE
 
-## Clonar y ejecutar el Proyecto
+## Ejecutar el Proyecto
 
-1. Abrir una ventana de comandos/símbolo del sistema (cmd)
-2. Clonar el proyecto desde el repositorio GitHub con el siguiente comando:
-   
-   git clone BCLKWBVIEWJDHVKJA
-   
-   (FOTO)
-   
-   Si el proyecto se clonó correctamente deberías ver esto en tu salida:
-   
-   (FOTO)
-3. Cambia al directorio raíz del proyecto con el comando:
+Desde el repositorio de GitHub hacer click en <> code y en Download ZIP
 
-   cd ssl-antlr-calculator
-
-4. Abre VS Code para trabajar con el código del proyecto. Para esto ejecuta en la ventana
-   de comandos abierta:
-   
-   code .
    
  Si todo esta correcto, deberías ver el proyecto en VS Code.
 
@@ -58,10 +42,5 @@ Para ejecutar el programa debe tener instalado lo siguiente:
 
    Acá vemos un error similar al anterior, ya que cadena solo deriva en TEXTO y NOMBRE, no en NUMERO.
 
-  
 
-
-### ❗ Notas
-Asegúrate de usar comillas simples para los textos.
-
-ANTES DE ENTREGAR REVISA LO DE LAS COMILLAS, ARRIBA ESPECIFICA MODIFICACIONES EN TU GRMATICA
+ARRIBA ESPECIFICA MODIFICACIONES EN TU GRMATICA
