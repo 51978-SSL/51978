@@ -48,10 +48,11 @@ Para ejecutar el programa debe tener instalado lo siguiente:
 
 8. Al repetir los pasos con el ejemplo en el archivo InputIncorrecto.1.txt , vemos que nos indica un error en una línea y la causa del problema.
 
-   
+   frase = mayusculas(25);
 
+   En este ejemplo vemos que 25 no es un valor esperado ya que la transformación 'mayusculas' solo reconoce variables como TEXTO o NOMBRE, no NUMERO.
 
-copie y pegue el archivo inputincorrecto1.txt y ejecute el programa. para ejecutar el programa debe abrir un terminal (mostrar foto) y ejecutar con node index.js mostarr foto 
+9. Repita los mismos pasos con el último ejemplo en InputIncorrecto2.txt , vemos que nos indica un error en una línea y la causa del problema.
 
 ### ❗ Notas
 Asegúrate de usar comillas simples para los textos.
