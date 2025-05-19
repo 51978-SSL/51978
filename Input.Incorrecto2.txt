@@ -1,1 +1,2 @@
 mensaje = "Hola" + "25" ;
+imprimir(mensaje);
