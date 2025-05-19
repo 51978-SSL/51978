@@ -1,4 +1,4 @@
-# Analizador Sintáctico
+# Ejecución del Analizador
 ## REQUISITOS IMPORTANTES
 Para ejecutar el programa debe tener instalado lo siguiente:
 
@@ -12,7 +12,48 @@ Para ejecutar el programa debe tener instalado lo siguiente:
 
 -Por último la extensión ANTLR4 en VS CODE
 
+## Clonar y ejecutar el Proyecto
 
+1. Abrir una ventana de comandos/símbolo del sistema (cmd)
+2. Clonar el proyecto desde el repositorio GitHub con el siguiente comando:
+   
+   git clone BCLKWBVIEWJDHVKJA
+   
+   (FOTO)
+   
+   Si el proyecto se clonó correctamente deberías ver esto en tu salida:
+   
+   (FOTO)
+3. Cambia al directorio raíz del proyecto con el comando:
+
+   cd ssl-antlr-calculator
+
+4. Abre VS Code para trabajar con el código del proyecto. Para esto ejecuta en la ventana
+   de comandos abierta:
+   
+   code .
+   
+ Si todo esta correcto, deberías ver tu proyecto editable en VS Code.
+
+ (FOTO)
+
+5. Ahora debe ingresar en el input.txt el ejemplo que está en el archivo InputCorrecto1.txt y presionar F5.
+6. Luego aparecerá un terminal donde debe ejecutar con:
+   
+   node index.js
+
+   Esto nos generará la tabla de tokens y lexema, el árbol de derivación y el código fuente traducido a JavaScript junto a su resultado.
+
+7. Repita los mismos pasos para el otro ejemplo en el archivo InputCorrecto2.txt
+
+8. Al repetir los pasos con el ejemplo en el archivo InputIncorrecto.1.txt , vemos que nos indica un error en una línea y la causa del problema.
+
+   
+
+
+copie y pegue el archivo inputincorrecto1.txt y ejecute el programa. para ejecutar el programa debe abrir un terminal (mostrar foto) y ejecutar con node index.js mostarr foto 
 
 ### ❗ Notas
 Asegúrate de usar comillas simples para los textos.
+
+ANTES DE ENTREGAR REVISA LO DE LAS COMILLAS, ARRIBA ESPECIFICA MODIFICACIONES EN TU GRMATICA
