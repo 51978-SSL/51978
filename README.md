@@ -1,7 +1,18 @@
 # Analizador Sintáctico
 ## REQUISITOS IMPORTANTES
-Debe tener instalado lo siguiente:
+Para ejecutar el programa debe tener instalado lo siguiente:
 
--VS CODE-
+-Visual Studio Code
+
+-Node js
+
+-Java
+
+-GitHub
+
+-Por último la extensión ANTLR4 en VS CODE
+
+
+
 ### ❗ Notas
 Asegúrate de usar comillas simples para los textos.
