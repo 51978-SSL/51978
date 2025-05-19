@@ -33,7 +33,7 @@ Para ejecutar el programa debe tener instalado lo siguiente:
    
    code .
    
- Si todo esta correcto, deberías ver tu proyecto editable en VS Code.
+ Si todo esta correcto, deberías ver el proyecto en VS Code.
 
  (FOTO)
 
@@ -58,6 +58,7 @@ Para ejecutar el programa debe tener instalado lo siguiente:
 
    Acá vemos un error similar al anterior, ya que cadena solo deriva en TEXTO y NOMBRE, no en NUMERO.
 
+  
 
 
 ### ❗ Notas
