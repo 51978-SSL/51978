@@ -1,3 +1,1 @@
-variable palabra = 'hola';
-palabra = invertir(palabra) ;
-imprimir(palabra) ;
+
